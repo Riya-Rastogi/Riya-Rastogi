@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Riya Rastogi</h1>
-<h3 align="center">Hii Everyone, I am Riya. I am pursuing B.tech in CSE from GLA University. I like to Code, paint, read, Innovate and Experiment. I am Skilled in Java, C++, Data Structures, SQL Algorithms</h3>
+<h3 align="center">Hii Everyone, I am Riya.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riya-rastogi&label=Profile%20views&color=0e75b6&style=flat" alt="riya-rastogi" /> </p>
 
