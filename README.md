@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Riya Rastogi</h1>
-<h3 align="center">Hii Everyone, I am Riya.</h3>
+<h3 align="center">A Girl trying to figure-out stuff!!.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riya-rastogi&label=Profile%20views&color=0e75b6&style=flat" alt="riya-rastogi" /> </p>
 
