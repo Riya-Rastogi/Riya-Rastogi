@@ -24,12 +24,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riya-rastogi&show_icons=true&locale=en" alt="riya-rastogi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riya-rastogi&" alt="riya-rastogi" /></p>
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=Riya-Rastogi&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
