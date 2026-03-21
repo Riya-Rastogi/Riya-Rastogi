@@ -1,97 +1,130 @@
-<h1 align="center">Hi, I'm Riya Rastogi 👋</h1>
-
-<p align="center">
-  <em>Aspiring Data Scientist & ML Engineer — turning data into decisions</em>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/riya-rastogi-3285aa284/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/Riya-Rastogi">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+- 🎓 **Fresher** in Data Science & Machine Learning
+- 🧠 Currently building **Digital Brain Twin** — an AI that mirrors cognitive processes
+- 📊 Passionate about **ML pipelines, data storytelling & intelligent systems**
+- 🌱 Deepening expertise in **Deep Learning, NLP & AI Research**
+- 💡 Believer in **data-driven decisions**
+- 🤝 Open to **collaborations, internships & entry-level roles**
 
 ---
 
-## 👩‍💻 About Me
+## 🛠️ Tech Stack & Tools
 
-- 🎓 Fresher in **Data Science & Machine Learning** — eager to build, learn, and contribute
-- 🧠 Currently working on **Digital Brain Twin** — an exciting AI-driven project
-- 📊 Passionate about **ML pipelines, data storytelling, and intelligent systems**
-- 🌱 Continuously expanding my knowledge in **Deep Learning & AI research**
-- 🤝 Open to collaborations, internships, and entry-level opportunities
+<div align="center">
 
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=python,r&theme=light" />
+&nbsp;
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**ML / Data Science**
-
+### 🤖 ML / AI Frameworks
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=light" />
+&nbsp;
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+### 📊 Data & Business Intelligence
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-**Visualization & Tools**
-
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4CB6D1?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+### ⚙️ Tools & Environment
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter&theme=light" />
+
+</div>
 
 ---
 
-## 🚀 Current Project
+## 🚀 Featured Project
+
+<div align="center">
 
 ### 🧠 Digital Brain Twin
-> An AI-powered system that models and mirrors cognitive processes digitally.
 
-- 🔬 Exploring how machine learning can simulate and replicate brain-like behaviour
-- 📡 Integrating data-driven techniques to model neural patterns and decision pathways
-- 🛠️ Built with Python, deep learning frameworks, and data modelling tools
+</div>
 
-📂 **[View Repository →](https://github.com/Riya-Rastogi)**
+<table>
+<tr>
+<td width="60%">
 
----
+> An AI-powered system that digitally models and mirrors human cognitive processes.
 
-## 📊 GitHub Stats
+**✨ Highlights:**
+- 🔬 Simulates brain-like decision-making using ML
+- 📡 Integrates neural pattern recognition
+- 🧩 Data-driven cognitive modelling pipeline
+- 🛠️ Built with Python & Deep Learning frameworks
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Riya-Rastogi&show_icons=true&theme=default&hide_border=true&title_color=0A66C2&icon_color=0A66C2" height="165"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riya-Rastogi&layout=compact&hide_border=true&title_color=0A66C2&theme=default" height="165"/>
-</p>
+**🔗 [View Repository →](https://github.com/Riya-Rastogi)**
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Riya-Rastogi&hide_border=true&ring=0A66C2&fire=0A66C2&currStreakLabel=0A66C2" height="150"/>
-</p>
+</td>
+<td width="40%" align="center">
 
----
+<img src="https://media.giphy.com/media/3o7btNa0RUNSio8RNC/giphy.gif" width="200" alt="Brain AI"/>
 
-## 📬 Let's Connect
-
-<p>
-  I'm always happy to connect with fellow learners, researchers, and professionals in the Data Science & AI space. Feel free to reach out!
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/riya-rastogi-3285aa284/">
-    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Riya-Rastogi&style=flat-square&color=0A66C2" alt="Profile Views"/>
-</p>
+## 📈 GitHub Stats
 
-<p align="center"><em>"Data is the new oil — and I'm here to refine it." 🚀</em></p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Riya-Rastogi&show_icons=true&theme=tokyonight&hide_border=true&title_color=6C63FF&icon_color=6C63FF&bg_color=0d1117&text_color=ffffff" height="170"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riya-Rastogi&layout=compact&theme=tokyonight&hide_border=true&title_color=6C63FF&bg_color=0d1117&text_color=ffffff" height="170"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Riya-Rastogi&theme=tokyonight&hide_border=true&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&background=0d1117&stroke=6C63FF" height="170"/>
+
+</div>
+
+<div align="center">
+
+[![Riya's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Riya-Rastogi&bg_color=0d1117&color=6C63FF&line=6C63FF&point=FF6B6B&area=true&hide_border=true)](https://github.com/Riya-Rastogi)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Riya-Rastogi&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/Riya-Rastogi)
+
+</div>
+
+---
+
+## 📬 Let's Connect!
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"/>
+&nbsp;
+<em>I love connecting with fellow data enthusiasts, researchers & professionals!</em>
+
+<br/><br/>
+
+[![LinkedIn](https://img.shields.io/badge/Let's%20Connect%20on%20LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riya-rastogi-3285aa284/)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+
+**⭐ If you like my work, consider starring my repositories!**
+
+*"Data is the new oil — and I'm here to refine it. 🚀"*
+
+</div>
