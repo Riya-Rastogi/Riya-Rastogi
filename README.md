@@ -12,8 +12,8 @@
 
 <div align="center">
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Riya%20Rastogi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Riya--Rastogi-181717?style=for-the-badge&logo=github&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Riya%20Rastogi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riya-rastogi-3285aa284/)
+[![GitHub](https://img.shields.io/badge/GitHub-Riya--Rastogi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Riya-Rastogi)
 ![Profile Views](https://komarev.com/ghpvc/?username=Riya-Rastogi&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS)
 
 </div>
@@ -143,8 +143,8 @@ me.say_hi()
 
 <div align="center">
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Riya%20Rastogi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Riya--Rastogi-181717?style=for-the-badge&logo=github&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Riya%20Rastogi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riya-rastogi-3285aa284/)
+[![GitHub](https://img.shields.io/badge/GitHub-Riya--Rastogi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Riya-Rastogi)
 
 *I'm always happy to connect with fellow data enthusiasts, researchers & professionals!*
 
